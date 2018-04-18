@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovilFinal</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_last_value">Last</string>
+    <string name="button_save">save</string>
+    <string name="preference_file_key">com.example.helloworld.PREFERENCE_FILE_KEY</string>
+
+</resources>
